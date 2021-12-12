@@ -326,7 +326,7 @@ if(isset($tx)){
 'parse_mode'=>'markdown',
 'reply_markup' => json_encode([
                 'inline_keyboard'=>[
-                   [['text'=>'📡Azo Bolish - 1','url'=>'https://t.me/Shax_Blogs']],
+                   [['text'=>'📡Azo Bolish - 1','url'=>'https://t.me/pess_pubg']],
 [['text'=>'📽You Tube - "https://youtube.com/channel/UCxz1yozuLsbHHO7GJ8kKzMQ" ]],
 ]
 ])
